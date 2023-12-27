@@ -1,0 +1,6 @@
+[submodule "smilechecker"]
+	path = smilechecker
+	url = https://github.com/higash1/smile_checker
+[submodule "software/smilechecker"]
+	path = software/smilechecker
+	url = https://github.com/higash1/smile_checker
